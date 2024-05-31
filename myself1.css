@@ -14,7 +14,7 @@ body{
 	place-content: center;
 	place-items: flex-start center;
 	background: var(--bg);
-    background-image: url(IMAGE/7_1.png);
+    background-image: url(image/7_1.png);
     background-position: center;
     background-size: cover;
     position: relative;
